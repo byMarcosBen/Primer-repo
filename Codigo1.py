@@ -1,2 +1,2 @@
-nombre = "Juancho Talarga"
+nombre = "Juancho Rizo"
 print(f"Hola {nombre}")
